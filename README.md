@@ -11,10 +11,8 @@ Dự án này là một hệ thống phân tích cảm xúc (Tích cực/Tiêu c
   - [2. Tiền xử lý dữ liệu](#2-tiền-xử-lý-dữ-liệu)
   - [3. Huấn luyện mô hình](#3-huấn-luyện-mô-hình)
 - [Kết quả và Đánh giá](#-kết-quả-và-đánh-giá)
-- [Giao diện Demo](#-giao-diện-demo)
 - [Cách chạy dự án](#-cách-chạy-dự-án)
-- [Hướng phát triển trong tương lai](#-hướng-phát-triển-trong-tương-lai)
-- [Lời cảm ơn](#-lời-cảm-ơn)
+
 
 ---
 
